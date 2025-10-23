@@ -61,7 +61,7 @@ If time allows, potential stretch goals may include:
 
 ## ERD
 
-![ScreenSense ERD](./assets/ERD/erd.png)
+![ScreenSense ERD](./assets/ERD/ERD.png)
 
 ## Wireframes
 
